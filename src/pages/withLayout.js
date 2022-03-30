@@ -1,5 +1,5 @@
 import React from 'react'
-import {Link, link} from "react-router-dom"
+import {Link} from "react-router-dom"
 function withLayout(Component) {
 
 function Layout() {
@@ -11,8 +11,8 @@ function Layout() {
     <div>
     <nav>
         <span className='nav-link'><Link to="/">Home</Link></span>
-        <span>About</span>
-        <span>Blog</span>    
+        <span className='nav-link'><Link to="/about">About</Link></span>
+        <span className='nav-link'><Link to="/blog">Blog</Link></span>    
     </nav>
     </div>
     
