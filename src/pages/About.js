@@ -1,43 +1,48 @@
 import React from 'react'
 import withLayout from './withLayout'
+
 function About() {
   return (
+ <div>
+   <h1>About Me</h1> 
     <div>
-    <h1>About Me</h1>
-     <div>
-     <p>LIFE
-     150 Life Quotes — Inspiring the Happy, Good and Funny in Life 
-     MARCH 5, 2022 – 4:35 PM  – 11 COMMENTS
-     Parade
-     By PARADE  @parademagazine
-     Life-Quotes-Dolly
-     Life is a beautiful journey that is meant to be embraced to the fullest every day. However, that doesn’t mean you always wake up ready to seize the day, and sometimes need a reminder that life is a great gift. Whether a funny quote from a famous celebrity or an encouraging message about giving it your best from a successful business person, we can all use a little motivation and inspiration these days via a life quote.</p>
+    <p> in the reign of his great-grandmother Queen Victoria, 
+    he was named Albert at birth after his great-grandfather Albert,
+     Prince Consort, and was known as "Bertie" to his family and close friends. 
+     His father ascended the throne as King George V in 1910. As the second son of 
+     the king, Albert was not expected to inherit the throne. He spent his early life 
+     in the shadow of his elder brother, Prince Edward, the heir apparent. 
+     Albert attended naval college as a teenager and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923, and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he learned to manage to some degree. His elder brother ascended the throne as Edward VIII after their father died in 1936, but Edward abdicated later that year to marry the twice-divorced American socialite Wallis Simpson; Albert thereby became the third monarch of the House of Windsor, 
+    taking the regnal name George VI.</p>
 
-     <p>LIFE
-     150 Life Quotes — Inspiring the Happy, Good and Funny in Life 
-     MARCH 5, 2022 – 4:35 PM  – 11 COMMENTS
-     Parade
-     By PARADE  @parademagazine
-     Life-Quotes-Dolly
-     Life is a beautiful journey that is meant to be embraced to the fullest every day. However, that doesn’t mean you always wake up ready to seize the day, and sometimes need a reminder that life is a great gift. Whether a funny quote from a famous celebrity or an encouraging message about giving it your best from a successful business person, we can all use a little motivation and inspiration these days via a life quote.
-     
-     Allow these 150 inspirational quotes about life to give you an extra pep in your step whenever you may need it. Keep these life quotes bookmarked on your phone or computer to pull up and scroll through whenever you need a little pick me up.
-     </p>
-     <p>LIFE
-     150 Life Quotes — Inspiring the Happy, Good and Funny in Life 
-     MARCH 5, 2022 – 4:35 PM  – 11 COMMENTS
-     Parade
-     By PARADE  @parademagazine
-     Life-Quotes-Dolly
-     Life is a beautiful journey that is meant to be embraced to the fullest every day. However, that doesn’t mean you always wake up ready to seize the day, and sometimes need a reminder that life is a great gift. Whether a funny quote from a famous celebrity or an encouraging message about giving it your best from a successful business person, we can all use a little motivation and inspiration these days via a life quote.
-     
-     Allow these 150 inspirational quotes about life to give you an extra pep in your step whenever you may need it. Keep these life quotes bookmarked on your phone or computer to pull up and scroll through whenever you need a little pick me up.
-     
-     </p>
-     </div>
+    <p> in the reign of his great-grandmother Queen Victoria, 
+    he was named Albert at birth after his great-grandfather Albert,
+     Prince Consort, and was known as "Bertie" to his family and close friends. 
+     His father ascended the throne as King George V in 1910. As the second son of 
+     the king, Albert was not expected to inherit the throne. He spent his early life 
+     in the shadow of his elder brother, Prince Edward, the heir apparent. 
+     Albert attended naval college as a teenager and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923, and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he learned to manage to some degree. His elder brother ascended the throne as Edward VIII after their father died in 1936, but Edward abdicated later that year to marry the twice-divorced American socialite Wallis Simpson; Albert thereby became the third monarch of the House of Windsor, 
+    taking the regnal name George VI.</p>
 
-
+    <p> in the reign of his great-grandmother Queen Victoria, 
+    he was named Albert at birth after his great-grandfather Albert,
+     Prince Consort, and was known as "Bertie" to his family and close friends. 
+     His father ascended the throne as King George V in 1910. As the second son of 
+     the king, Albert was not expected to inherit the throne. He spent his early life 
+     in the shadow of his elder brother, Prince Edward, the heir apparent. 
+     Albert attended naval college as a teenager and served in the Royal Navy and Royal Air Force during the First World War. In 1920, he was made Duke of York. He married Lady Elizabeth Bowes-Lyon in 1923, and they had two daughters, Elizabeth and Margaret. In the mid-1920s, he had speech therapy for a stammer, which he learned to manage to some degree. His elder brother ascended the throne as Edward VIII after their father died in 1936, but Edward abdicated later that year to marry the twice-divorced American socialite Wallis Simpson; Albert thereby became the third monarch of the House of Windsor, 
+    taking the regnal name George VI.</p>
+    
+    
+    
+    
+    
+    
     </div>
+    
+    
+    
+</div>
   )
 }
 

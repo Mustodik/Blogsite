@@ -1,4 +1,6 @@
 @import url(reset.css);
+
+
 .layout{
   height: 100%;
   display: flex;
@@ -11,7 +13,7 @@
   margin: auto;
 }
 .appbar{
-  background-color: red;
+  background-color: crimson;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -19,10 +21,10 @@
 }
 .appbar span{
   font-size: 25px;
-  font-weight: 700px;
+  font-weight: 700;
   color: whitesmoke;
 }
-.nav-link >a{
+.nav-link a{
   margin: 10px;
   text-decoration: none;
   color: white;
@@ -34,5 +36,5 @@ footer{
   background-color: crimson;
   padding: 10px;
   text-align: center;
-  color: white;
+  color: whitesmoke;
 }
